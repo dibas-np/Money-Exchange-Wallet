@@ -41,7 +41,7 @@ Money exchange wallet is a frontend development of flutter application.
 ## Softwares Used
 
 * [Figma](https://www.figma.com/)
-* [Virtual Studio Code(https://code.visualstudio.com/)
+* [Virtual Studio Code](https://code.visualstudio.com/)
 
 
 ## Authors

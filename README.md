@@ -38,6 +38,16 @@ Money exchange wallet is a frontend development of flutter application.
 * [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
 * [rflutter_alert](https://pub.dev/packages/rflutter_alert)
 
+
+
+## Authors
+
+* [@dibas-np](https://github.com/dibas-np)
+
+
+## License
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
 ## Screenshots
 
 <p align="center">
@@ -55,12 +65,3 @@ Money exchange wallet is a frontend development of flutter application.
 <img src="https://user-images.githubusercontent.com/81339759/119874363-3c490880-bf45-11eb-86de-dc7b725b0a05.png" height="800em" />
 <img src="https://user-images.githubusercontent.com/81339759/119874394-4539da00-bf45-11eb-9460-1fa9547afb58.png" height="800em" />
 </p>
-
-## Authors
-
-* [@dibas-np](https://github.com/dibas-np)
-
-
-## License
-[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
-

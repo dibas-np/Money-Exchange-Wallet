@@ -23,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  qr_flutter: ^4.0.0
+  
   flutter_vector_icons: ^1.0.0
   ionicons: ^0.1.2
   qr_code_scanner: ^0.4.0

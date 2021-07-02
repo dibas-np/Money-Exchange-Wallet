@@ -1,7 +1,7 @@
 
 # Money Exchange Wallet
 
-Money exchange wallet is a frontend development of flutter application.
+Money exchange wallet is a frontend development of mobile application using flutter.
 
 # Pages
 
